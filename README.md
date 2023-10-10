@@ -1,0 +1,1 @@
+In this project I'm demonstrating the usage of HTML and a little bit of CSS. It's a simple page with different recipes.
